@@ -1,1 +1,2 @@
-welcome to the fast running world where no one is walking.
+welcome to the fast running world.
+done with using git.
